@@ -10,3 +10,5 @@
   - Lois Rilo \<<lois.rilo@forgeflow.com>\>
 - [Shine IT](https://www.openerp.cn):
   - Tony Gu \<<tony@openerp.cn>\>
+- [Quartile](https://www.quartile.co):
+  - Yoshi Tashiro

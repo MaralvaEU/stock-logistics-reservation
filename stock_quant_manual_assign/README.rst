@@ -113,6 +113,10 @@ Contributors
 
   - Tony Gu <tony@openerp.cn>
 
+- `Quartile <https://www.quartile.co>`__:
+
+  - Yoshi Tashiro
+
 Maintainers
 -----------
 
