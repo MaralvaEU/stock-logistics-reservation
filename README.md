@@ -25,7 +25,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[stock_quant_manual_assign](stock_quant_manual_assign/) | 19.0.1.0.0 |  | Stock - Manual Quant Assignment
+[stock_quant_manual_assign](stock_quant_manual_assign/) | 19.0.1.0.1 |  | Stock - Manual Quant Assignment
 
 [//]: # (end addons)
 
